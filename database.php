@@ -1,9 +1,9 @@
 <?php
 // Configuración de la base de datos
-define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'pasteleria');
+define('DB_HOST', 'localhost:3306');
+define('DB_USER', 'if0_40817474');
+define('DB_PASS', 'misu7890');
+define('DB_NAME', 'if0_40817474_pasteeleria09');
 
 class Database {
     private $conn;
