@@ -1,9 +1,9 @@
 <?php
 // Configuración de la base de datos
-define('DB_HOST', 'if0_40817474_XXX');
-define('DB_USER', 'if0_40817474');
-define('DB_PASS', 'misu7890');
-define('DB_NAME', 'if0_40817474_pasteeleria09');
+define('DB_HOST', 'sql311.infinityfree.com');
+define('DB_USER', 'if0_40727550');
+define('DB_PASS', 'R384n6XMKCK4');
+define('DB_NAME', 'if0_40727550_pastel1212');
 
 class Database {
     private $conn;
